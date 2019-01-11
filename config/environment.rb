@@ -25,8 +25,6 @@ SQL
 
 ActiveRecord::Base.connection.execute(sql)
 
-ActiveRecord::Base.connection.execute(sql)
-
 # put the code to connect to the database here
 
 
